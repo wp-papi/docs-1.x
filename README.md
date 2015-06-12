@@ -1,6 +1,6 @@
-# Papi documentation
+# Papi docs 1.x
 
-The documentation of Papi
+Documentation for Papi 1.x
 
 # Publish
 
