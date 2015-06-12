@@ -7,6 +7,7 @@ language_tabs:
 toc_footers:
   - <a href='http://github.com/wp-papi/papi'>Fork me on GitHub</a>
   - <a href='http://wp-papi.github.io/'>Papi project site</a>
+  - <a href='https://wp-papi.github.io/docs'>Documentation for Papi 2.x</a>
 
 includes:
   - actions
@@ -22,6 +23,10 @@ search: true
 ---
 
 # Introduction
+
+**This is the documentation for Papi 1.x**
+
+[**Go to documentation for Papi 2.x**](https://wp-papi.github.io/docs)
 
 Papi has a different approach on how to work with fields and page types in WordPress. The idea is coming from how Page Type Builder in EPiServer works and has been loved by the developers.
 
